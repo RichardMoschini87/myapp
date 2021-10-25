@@ -5,8 +5,8 @@ function App() {
   return (
     <div>
       <p>Ciao a tutti sono richard
-ed        non devi preoccuparti sono qui
-non
+        non devi preoccuparti sono qui
+        sono qui
       </p>
       <Bottone></Bottone>
     </div>
