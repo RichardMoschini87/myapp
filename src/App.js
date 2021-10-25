@@ -6,7 +6,7 @@ function App() {
     <div>
       <p>Ciao a tutti sono richard
         non devi preoccuparti sono qui
-        sono qui
+        sono qui e faccio test
       </p>
       <Bottone></Bottone>
     </div>
